@@ -5,6 +5,6 @@
 * 1. 잔디밭을 아름답게 가꾸자
 * 2. 프로그래밍 공부도 체력이다. 운동을 꾸준히 하자
 
-**나의 정보**
+**나의 상태**
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=Ttopema)](https://github.com/Ttopema)
